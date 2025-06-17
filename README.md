@@ -42,9 +42,9 @@ Logs using SLF4J for every important operation and error
 Clean code with meaningful comments
 
 📁 Project Structure
-php
-Copy
-Edit
+
+
+
 com.ApiServer.java/
 ├── Controller/
 │   ├── AuthController.java        # Handles signup & login
@@ -73,9 +73,7 @@ IDE (e.g., IntelliJ, Eclipse)
 Postman
 
 Run the Application
-bash
-Copy
-Edit
+
 mvn spring-boot:run
 The server will start at: http://localhost:8080
 
